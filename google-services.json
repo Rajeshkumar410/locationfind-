@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "494877954039",
+    "project_id": "locationfinder-1926c",
+    "storage_bucket": "locationfinder-1926c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494877954039:android:f02dbb37e68303fa3be8f2",
+        "android_client_info": {
+          "package_name": "com.nextstacks.locationfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494877954039-sn9a1vh8rct5llbapmdodo3m06uneeal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nextstacks.locationfinder",
+            "certificate_hash": "541ef734f9619ae0268ebd47d6abfbaead759a6c"
+          }
+        },
+        {
+          "client_id": "494877954039-2bvcmsvg00hqr15v75srhvmtsnqeu3hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWZFIPQoqTT5fNmGtYw1uzranHP0WxFw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494877954039-2bvcmsvg00hqr15v75srhvmtsnqeu3hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
